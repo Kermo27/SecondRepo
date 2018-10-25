@@ -1,0 +1,7 @@
+Stwórz kalendarz i dodawaj wpisy w inne dni
+
+Stwórz repo dodaj plik z kodem Ÿród³owym (z b³êdem, a potem popraw b³¹d + prtscr ¿e dzia³a, cofnij zmiany, prtscr historii)
+
+Stworzenie lokalnego repo i po³¹czenie ze swoim
+
+Co to jest alias i tag (w gicie), podstawowe komendy
